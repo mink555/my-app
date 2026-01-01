@@ -31,7 +31,11 @@ export function ExpertiseSection() {
           </div>
           <div className="relative">
             <div className="aspect-square overflow-hidden rounded-2xl bg-gradient-to-br from-primary/20 to-primary/5">
-              <img src="/ai-neural-network.png" alt="AI Technology" className="h-full w-full object-cover" />
+              <img
+                src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800"
+                alt="AI Technology Neural Network"
+                className="h-full w-full object-cover"
+              />
             </div>
           </div>
         </div>
